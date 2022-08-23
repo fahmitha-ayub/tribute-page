@@ -1,3 +1,8 @@
+body{
+  text-align:center;
+  line-height:1.5em;
+}
+
 main{
     background-color:white;
   }
@@ -21,3 +26,36 @@ main{
     background-color:white;
     padding-bottom:20px;
   }
+  #img-caption{
+    text-align:center;
+    margin:0 5px;
+  }
+  h1{
+    font-size: 4rem;
+    margin:0px;
+  }
+  header p{
+    display:block;
+    font-size: 1.6rem;
+  }
+  .bold{
+    font-weight:bold;
+  }
+ #tribute-info h3{
+  font-weight:bold;
+  font-size:1.17em;
+ }
+ ul{
+  max-width:550px;
+  margin:0px auto 15px auto;
+  display:block;
+  text-align:left;
+
+ }
+ #tribute-info p{
+  max-width:455px;
+  margin:0 auto 15px auto;
+ }
+ #tribute-link{
+  
+ }
